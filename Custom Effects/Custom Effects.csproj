@@ -209,7 +209,7 @@
     <Compile Include="CustomEffects\API\Features\Interfaces\IDamagable.cs" />
     <Compile Include="CustomEffects\API\Features\Interfaces\IHealable.cs" />
     <Compile Include="CustomEffects\Example\CustomEffect\ExampleEffect.cs" />
-    <Compile Include="CustomEffects\Example\CustomEffect\Plugin.cs" />
+    <Compile Include="CustomEffects\Example\Plugin.cs" />
     <Compile Include="Plugin\Config.cs" />
     <Compile Include="Plugin\Plugin.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
